@@ -4,5 +4,8 @@ This is an attemt to solve a problem introduced by PsyHack 2019 Competion with t
 ### Task
  - essays classification on Depressive/Non-Depressive authors
  
+ ### Evaluated On
+ - ROC AUC score
+ 
  ### Dataset
  - private (accessible to the participants)
